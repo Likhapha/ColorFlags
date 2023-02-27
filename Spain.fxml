@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.shape.Rectangle?>
+
+
+<AnchorPane prefHeight="300.0" prefWidth="300.0" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <VBox layoutX="90.0" layoutY="100.0" prefHeight="70.0" prefWidth="103.0">
+         <children>
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#ff2d1f" height="60.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="300.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#ffdd1f" height="90.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="300.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#ff2d1f" height="60.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="300.0" />
+         </children>
+      </VBox>
+   </children>
+</AnchorPane>
